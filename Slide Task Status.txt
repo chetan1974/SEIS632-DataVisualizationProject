@@ -1,0 +1,55 @@
+•	Slide 1 
+o	Total Sum Map, color intensity scale(Blue)
+o	Who is working: 
+o	Status:
+•	Slide 2 
+o	Total Sum Line Graph(Over time)
+o	Who is working: 
+o	Status:
+•	Slide 3 
+o	State Sum and line graph 
+o	Who is working: 
+o	Status:
+•	Slide 4 
+o	Sector Sum, line graph 
+o	Who is working: 
+o	Status:
+•	Slide 5 
+o	California, sum all sectors 
+o	Who is working: 
+o	Status:
+•	Slide 6 
+o	California, percentage by sector, standard bar 
+o	Who is working: 
+o	Status:
+•	Slide 7 
+o	California, percentage change, line chart, year over year
+o	Who is working: 
+o	Status:
+•	Slide 8 
+o	Drill down to transportation
+o	Who is working: 
+o	Status:
+•	Slide 9 
+o	Texas, sum all sectors 
+o	Who is working: 
+o	Status:
+•	Slide 10 
+o	Texas, percentage by sector, standard bar 
+o	Who is working: 
+o	Status:
+•	Slide 11 
+o	Texas, percentage change, line chart, year over year
+o	Who is working: 
+o	Status:
+
+•	Slide 12
+o	Drill down to Industrial
+o	Who is working: 
+o	Status:
+
+•	Slide 13
+o	News articles for spikes
+o	Who is working: 
+o	Status:
+
