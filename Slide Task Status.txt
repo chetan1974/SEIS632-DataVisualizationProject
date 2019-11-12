@@ -1,6 +1,7 @@
 •	Slide 1 
 o	Total Sum Map, color intensity scale(Blue)
 o	Who is working: 
+
 o	Status:
 •	Slide 2 
 o	Total Sum Line Graph(Over time)
