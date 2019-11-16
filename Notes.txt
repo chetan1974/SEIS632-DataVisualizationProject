@@ -1,6 +1,7 @@
 Data prep tableua learning tutorial: 
 https://www.tableau.com/learn/tutorials/on-demand/data-prep-text-and-excel-files?product=tableau_desktop+tableau_prep&version=tableau_desktop_2019_3+tableau_prep_2019_3_1&topic=connecting_data&signin=00f4021701ae0796cf7a8f2b09015244
 rows to column using "Field names are in first row". https://community.tableau.com/thread/202928
+select columns that needs to represented as rows, select pivot.
 
 Exporation questions:
 1. Is there a overall tred in emission pattern over the years (like in emissions over years)
