@@ -17,20 +17,20 @@ o	Who is working: Spencer
 o	Status:Complete
 •	Slide 5 
 o	California, sum all sectors 
-o	Who is working: 
-o	Status:
+o	Who is working: Chetan
+o	Status: Complete
 •	Slide 6 
 o	California, percentage by sector, standard bar 
-o	Who is working: 
-o	Status:
+o	Who is working: Chetan
+o	Status: Complete
 •	Slide 7 
 o	California, percentage change, line chart, year over year
-o	Who is working: 
-o	Status:
+o	Who is working: Chetan
+o	Status:Complete
 •	Slide 8 
 o	Drill down to transportation
-o	Who is working: 
-o	Status:
+o	Who is working: Chetan
+o	Status: Complete
 •	Slide 9 
 o	Texas, sum all sectors 
 o	Who is working: 
